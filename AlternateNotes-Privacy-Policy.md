@@ -15,6 +15,7 @@ We do not collect, store, or share any personal information from our users. All 
 The AlternateNotes application requests the following permission:
 
 *   **`android.permission.INTERNET`**: This permission is used solely for the purpose of displaying advertisements within the application through Google AdMob. [4, 8] We do not use this permission to collect or transmit any personal data from your device.
+*   **`android.permission.POST_NOTIFICATIONS`**: This permission is used solely for the purpose of displaying reminder notifications. User will received notification only if reminder is set.
 
 ### Third-Party Services
 
